@@ -5,6 +5,8 @@ body {
   align-items: center;
   background-color: #121212;
   margin: 0;
+  overflow: hidden;
+  touch-action: none;
 }
 
 .login-box {
